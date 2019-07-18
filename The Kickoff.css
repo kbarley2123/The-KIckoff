@@ -1,0 +1,33 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	color: black;
+	background-color: blue;
+	font-size: 35px;
+}
+nav {
+	color: black;
+	font-size: 18px;
+}
+p{
+	color: black;
+	background-color: red;
+	font-size: 28px;
+}
+section {
+	color: black;
+	background-color: blue;
+}
+h2 {
+	color: black;
+	background-color: red;
+}
+h3 {
+	color: black;
+	background-color: blue;
+}
+ul {
+	font-size: 25px;
+}
